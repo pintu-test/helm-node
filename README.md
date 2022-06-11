@@ -1,6 +1,6 @@
 ## Helm NodeJS
 
-Setup service be-golang-service manifest and deploy to Kubernetes Cluster, with:
+Setup service be-nodejs-service manifest and deploy to Kubernetes Cluster, with:
   - Autoscalling
   - Export service with Load Balancer
   - Limit resource cpu: 100m and memory: 128Mi
